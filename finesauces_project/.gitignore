@@ -7,5 +7,5 @@ db.sqlite3-journal
 .vscode
 static
 media
-envgit
+env
 local_settings.py
